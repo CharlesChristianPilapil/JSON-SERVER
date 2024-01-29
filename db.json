@@ -2,7 +2,7 @@
   "blogs": [
     {
       "title": "Admin Note",
-      "body": "Use this URL to access admin control<br>https://ccp-blogdojo-project.netlify.app/admin",
+      "body": "Use this URL to access admin control\nhttps://ccp-blogdojo-project.netlify.app/admin",
       "author": "admin",
       "id": "3"
     },
